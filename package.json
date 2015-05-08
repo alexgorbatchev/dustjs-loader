@@ -32,6 +32,6 @@
   },
   "homepage": "https://github.com/scottbrady/dustjs-loader",
   "dependencies": {
-    "dustjs-linkedin": "~2.5.1"
+    "dustjs-linkedin": "^2.7.0"
   }
 }
